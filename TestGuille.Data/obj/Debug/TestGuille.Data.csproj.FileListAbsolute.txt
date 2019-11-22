@@ -1,0 +1,16 @@
+C:\Users\yi\source\repos\TestGuille.Web\TestGuille.Data\bin\Debug\TestGuille.Data.dll.config
+C:\Users\yi\source\repos\TestGuille.Web\TestGuille.Data\bin\Debug\TestGuille.Data.dll
+C:\Users\yi\source\repos\TestGuille.Web\TestGuille.Data\bin\Debug\TestGuille.Data.pdb
+C:\Users\yi\source\repos\TestGuille.Web\TestGuille.Data\bin\Debug\EntityFramework.dll
+C:\Users\yi\source\repos\TestGuille.Web\TestGuille.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yi\source\repos\TestGuille.Web\TestGuille.Data\bin\Debug\EntityFramework.xml
+C:\Users\yi\source\repos\TestGuille.Web\TestGuille.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yi\source\repos\TestGuille.Web\TestGuille.Data\obj\Debug\TestGuille.Data.Message.MessageResource.resources
+C:\Users\yi\source\repos\TestGuille.Web\TestGuille.Data\obj\Debug\TestGuille.Data.csproj.GenerateResource.cache
+C:\Users\yi\source\repos\TestGuille.Web\TestGuille.Data\obj\Debug\TestGuille.Data.csproj.CopyComplete
+C:\Users\yi\source\repos\TestGuille.Web\TestGuille.Data\obj\Debug\TestGuille.Data.dll
+C:\Users\yi\source\repos\TestGuille.Web\TestGuille.Data\obj\Debug\TestGuille.Data.pdb
+C:\Users\yi\source\repos\TestGuille.Web\TestGuille.Data\obj\Debug\TestGuille.Data.csproj.CoreCompileInputs.cache
+C:\Users\yi\source\repos\TestGuille.Web\TestGuille.Data\obj\Debug\TestGuille.Data.csprojAssemblyReference.cache
+C:\Users\yi\source\repos\TestGuille.Web\TestGuille.Data\bin\Debug\log4net.dll
+C:\Users\yi\source\repos\TestGuille.Web\TestGuille.Data\bin\Debug\log4net.xml

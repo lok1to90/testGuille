@@ -1,0 +1,14 @@
+C:\Users\yi\source\repos\TestGuille.Web\TestGuille.Business\obj\Debug\TestGuille.Business.csproj.CoreCompileInputs.cache
+C:\Users\yi\source\repos\TestGuille.Web\TestGuille.Business\obj\Debug\TestGuille.Business.csprojAssemblyReference.cache
+C:\Users\yi\source\repos\TestGuille.Web\TestGuille.Business\bin\Debug\TestGuille.Business.dll
+C:\Users\yi\source\repos\TestGuille.Web\TestGuille.Business\bin\Debug\TestGuille.Business.pdb
+C:\Users\yi\source\repos\TestGuille.Web\TestGuille.Business\bin\Debug\TestGuille.Data.dll
+C:\Users\yi\source\repos\TestGuille.Web\TestGuille.Business\bin\Debug\EntityFramework.dll
+C:\Users\yi\source\repos\TestGuille.Web\TestGuille.Business\bin\Debug\TestGuille.Data.pdb
+C:\Users\yi\source\repos\TestGuille.Web\TestGuille.Business\bin\Debug\TestGuille.Data.dll.config
+C:\Users\yi\source\repos\TestGuille.Web\TestGuille.Business\bin\Debug\EntityFramework.xml
+C:\Users\yi\source\repos\TestGuille.Web\TestGuille.Business\obj\Debug\TestGuille.Business.csproj.CopyComplete
+C:\Users\yi\source\repos\TestGuille.Web\TestGuille.Business\obj\Debug\TestGuille.Business.dll
+C:\Users\yi\source\repos\TestGuille.Web\TestGuille.Business\obj\Debug\TestGuille.Business.pdb
+C:\Users\yi\source\repos\TestGuille.Web\TestGuille.Business\bin\Debug\log4net.dll
+C:\Users\yi\source\repos\TestGuille.Web\TestGuille.Business\bin\Debug\log4net.xml
